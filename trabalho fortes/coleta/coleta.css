@@ -1,0 +1,12 @@
+
+.container {
+    padding-top: 30px;
+}
+img {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.btn-success {
+    background-color: #63b33d;
+    border: none;
+}

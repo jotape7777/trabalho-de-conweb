@@ -1,0 +1,8 @@
+/* Estilo para página ajuda */
+.container {
+    padding-top: 30px;
+}
+.btn-success {
+    background-color: #63b33d;
+    border: none;
+}
